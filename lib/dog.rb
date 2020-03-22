@@ -1,7 +1,7 @@
 # Add your code here
 class Dog
 
-  attr_accessor :name, :save
+ attr_reader :name
 
   @@all=[]
 
